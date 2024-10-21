@@ -1,0 +1,14 @@
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\bin\Debug\net8.0\SemanticKernalApp.exe
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\bin\Debug\net8.0\SemanticKernalApp.deps.json
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\bin\Debug\net8.0\SemanticKernalApp.runtimeconfig.json
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\bin\Debug\net8.0\SemanticKernalApp.dll
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\bin\Debug\net8.0\SemanticKernalApp.pdb
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\obj\Debug\net8.0\SemanticKernalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\obj\Debug\net8.0\SemanticKernalApp.AssemblyInfoInputs.cache
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\obj\Debug\net8.0\SemanticKernalApp.AssemblyInfo.cs
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\obj\Debug\net8.0\SemanticKernalApp.csproj.CoreCompileInputs.cache
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\obj\Debug\net8.0\SemanticKernalApp.dll
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\obj\Debug\net8.0\refint\SemanticKernalApp.dll
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\obj\Debug\net8.0\SemanticKernalApp.pdb
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\obj\Debug\net8.0\SemanticKernalApp.genruntimeconfig.cache
+C:\Users\SubinBabu\source\repos\SemanticKernalApp\SemanticKernalApp\obj\Debug\net8.0\ref\SemanticKernalApp.dll

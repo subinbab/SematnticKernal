@@ -1,0 +1,6 @@
+@SemanticAIApp_HostAddress = http://localhost:5239
+
+GET {{SemanticAIApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
