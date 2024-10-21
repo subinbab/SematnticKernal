@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticAIApp\\SemanticAIApp.csproj": {}
+    "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\SemanticAIApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticAIApp\\SemanticAIApp.csproj": {
+    "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\SemanticAIApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticAIApp\\SemanticAIApp.csproj",
+        "projectUniqueName": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\SemanticAIApp.csproj",
         "projectName": "SemanticAIApp",
-        "projectPath": "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticAIApp\\SemanticAIApp.csproj",
+        "projectPath": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\SemanticAIApp.csproj",
         "packagesPath": "C:\\Users\\SubinBabu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticAIApp\\obj\\",
+        "outputPath": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SubinBabu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\SemanticKernalLib.csproj": {
-                "projectPath": "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\SemanticKernalLib.csproj"
+              "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\SemanticKernalLib.csproj": {
+                "projectPath": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\SemanticKernalLib.csproj"
               }
             }
           }
@@ -50,9 +50,41 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.1.2, )"
             }
           },
           "imports": [
@@ -78,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\SemanticKernalLib.csproj": {
+    "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\SemanticKernalLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\SemanticKernalLib.csproj",
+        "projectUniqueName": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\SemanticKernalLib.csproj",
         "projectName": "SemanticKernalLib",
-        "projectPath": "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\SemanticKernalLib.csproj",
+        "projectPath": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\SemanticKernalLib.csproj",
         "packagesPath": "C:\\Users\\SubinBabu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\obj\\",
+        "outputPath": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SubinBabu\\AppData\\Roaming\\NuGet\\NuGet.Config",

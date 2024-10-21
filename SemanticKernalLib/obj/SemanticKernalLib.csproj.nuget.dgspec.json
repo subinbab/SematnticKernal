@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\SemanticKernalLib.csproj": {}
+    "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\SemanticKernalLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\SemanticKernalLib.csproj": {
+    "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\SemanticKernalLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\SemanticKernalLib.csproj",
+        "projectUniqueName": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\SemanticKernalLib.csproj",
         "projectName": "SemanticKernalLib",
-        "projectPath": "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\SemanticKernalLib.csproj",
+        "projectPath": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\SemanticKernalLib.csproj",
         "packagesPath": "C:\\Users\\SubinBabu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SubinBabu\\source\\repos\\SemanticKernalApp\\SemanticKernalLib\\obj\\",
+        "outputPath": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SubinBabu\\AppData\\Roaming\\NuGet\\NuGet.Config",

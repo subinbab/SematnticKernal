@@ -1,12 +1,80 @@
 [
   {
     "ContainingType": "SemanticAIApp.Controllers.SemanticController",
+    "Method": "GenerateSSOToken",
+    "RelativePath": "api/Semantic/generate-sso-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SemanticAIApp.Controllers.SemanticController",
     "Method": "GetAI",
     "RelativePath": "api/Semantic/GetAI",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SemanticAIApp.Controllers.SemanticController",
+    "Method": "SignIn",
+    "RelativePath": "api/Semantic/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SemanticAIApp.Controllers.SemanticController",
+    "Method": "SignUp",
+    "RelativePath": "api/Semantic/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SemanticAIApp.Controllers.SemanticController",
+    "Method": "ValidateSSOToken",
+    "RelativePath": "api/Semantic/validate-sso-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {
