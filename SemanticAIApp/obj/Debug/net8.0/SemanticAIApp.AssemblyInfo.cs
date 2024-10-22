@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SemanticAIApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc00fc7e2f78055a4b51d0c0be2e0a76d16cffde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3ab7299e4ee5a232a0db20acdcc80c556d8d7f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SemanticAIApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SemanticAIApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

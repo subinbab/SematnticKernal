@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "SemanticAIApp.Controllers.OpenAIController",
+    "Method": "CreateOpenAIAccount",
+    "RelativePath": "api/OpenAI/CreateOpenAIAccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "openAISubscription",
+        "Type": "SemanticAIApp.Models.OpenAISubscription",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SemanticAIApp.Controllers.SemanticController",
     "Method": "GenerateSSOToken",
     "RelativePath": "api/Semantic/generate-sso-token",
@@ -49,14 +65,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "username",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "password",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "signup",
+        "Type": "SemanticAIApp.Models.SignUpDto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

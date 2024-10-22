@@ -47,6 +47,29 @@ namespace SemanticAIApp.Migrations
                         .HasFilter("[NormalizedName] IS NOT NULL");
 
                     b.ToTable("AspNetRoles", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = "5ec2d3c6-77af-459d-8aad-39b8be06f9d7",
+                            ConcurrencyStamp = "1",
+                            Name = "ADMIN",
+                            NormalizedName = "ADMIN"
+                        },
+                        new
+                        {
+                            Id = "1ae412f6-e5c3-4b26-bae8-5c69e8ff3448",
+                            ConcurrencyStamp = "2",
+                            Name = "ROLE1",
+                            NormalizedName = "ROLE1"
+                        },
+                        new
+                        {
+                            Id = "844f1ef3-562a-4a6a-a95e-2e7c94609b5e",
+                            ConcurrencyStamp = "3",
+                            Name = "ROLE2",
+                            NormalizedName = "ROLE2"
+                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -220,6 +243,33 @@ namespace SemanticAIApp.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("SemanticAIApp.Models.OpenAISubscription", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<int>("RateLimit")
+                        .HasColumnType("int");
+
+                    b.Property<double>("TokenLimit")
+                        .HasColumnType("float");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("OpenAISubscription");
+                });
+
             modelBuilder.Entity("SemanticAIApp.Models.SSOToken", b =>
                 {
                     b.Property<int>("Id")
@@ -296,6 +346,17 @@ namespace SemanticAIApp.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("SemanticAIApp.Models.OpenAISubscription", b =>
+                {
+                    b.HasOne("Microsoft.AspNetCore.Identity.IdentityUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
                 });
 #pragma warning restore 612, 618
         }

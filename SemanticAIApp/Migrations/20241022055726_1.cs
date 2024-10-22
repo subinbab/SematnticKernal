@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
 namespace SemanticAIApp.Migrations
 {
     /// <inheritdoc />
@@ -48,6 +50,22 @@ namespace SemanticAIApp.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_AspNetUsers", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "SSOTokens",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    UserId = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Token = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    ExpiryDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    IsUsed = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_SSOTokens", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -156,6 +174,37 @@ namespace SemanticAIApp.Migrations
                         onDelete: ReferentialAction.Cascade);
                 });
 
+            migrationBuilder.CreateTable(
+                name: "OpenAISubscription",
+                columns: table => new
+                {
+                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    UserId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    UserId1 = table.Column<string>(type: "nvarchar(450)", nullable: true),
+                    RateLimit = table.Column<int>(type: "int", nullable: false),
+                    TokenLimit = table.Column<double>(type: "float", nullable: false),
+                    description = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_OpenAISubscription", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_OpenAISubscription_AspNetUsers_UserId1",
+                        column: x => x.UserId1,
+                        principalTable: "AspNetUsers",
+                        principalColumn: "Id");
+                });
+
+            migrationBuilder.InsertData(
+                table: "AspNetRoles",
+                columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
+                values: new object[,]
+                {
+                    { "07b18e46-6856-40b1-a50b-c1d2d964727c", "2", "ROLE1", "ROLE1" },
+                    { "c0f53d98-59e1-4f05-8037-73d999f958c1", "3", "ROLE2", "ROLE2" },
+                    { "c288f29b-f9f2-47cd-8139-7e474f86aecc", "1", "ADMIN", "ADMIN" }
+                });
+
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",
                 table: "AspNetRoleClaims",
@@ -194,6 +243,11 @@ namespace SemanticAIApp.Migrations
                 column: "NormalizedUserName",
                 unique: true,
                 filter: "[NormalizedUserName] IS NOT NULL");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_OpenAISubscription_UserId1",
+                table: "OpenAISubscription",
+                column: "UserId1");
         }
 
         /// <inheritdoc />
@@ -213,6 +267,12 @@ namespace SemanticAIApp.Migrations
 
             migrationBuilder.DropTable(
                 name: "AspNetUserTokens");
+
+            migrationBuilder.DropTable(
+                name: "OpenAISubscription");
+
+            migrationBuilder.DropTable(
+                name: "SSOTokens");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");

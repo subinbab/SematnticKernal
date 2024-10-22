@@ -21,16 +21,18 @@ namespace SemanticAIApp.Controllers
         private Kernel _kernel;
         private readonly UserManager<IdentityUser> _userManager;
         private readonly SignInManager<IdentityUser> _signInManager;
+        private readonly RoleManager<IdentityRole> _roleManager;
         private readonly AppDbContext _context;
         private readonly IConfiguration _config;
         public SemanticController(UserManager<IdentityUser> userManager,
-            SignInManager<IdentityUser> signInManager, Kernel kernel, AppDbContext context, IConfiguration configurationBuilder) {
+            SignInManager<IdentityUser> signInManager, Kernel kernel, AppDbContext context, IConfiguration configurationBuilder, RoleManager<IdentityRole> roleManager) {
 
             _kernel = kernel;
             _userManager = userManager;
             _signInManager = signInManager;
             _context = context;
             _config = configurationBuilder;
+            _roleManager = roleManager;
         }
         [HttpGet("GetAI")]
         public IActionResult GetAI()
@@ -42,17 +44,19 @@ namespace SemanticAIApp.Controllers
             return Ok(result.ToString());
         }
         [HttpPost("SignUp")]
-        public IActionResult SignUp(string username, string password)
+        public IActionResult SignUp(SignUpDto signup)
         {
             try
             {
+                var roles = _roleManager.Roles.ToList();
                 // Create a new IdentityUser based on the incoming model data
-                var user = new IdentityUser { UserName = username, Email = username };
+                var user = new IdentityUser { UserName = signup.UserName, Email = signup.Email };
                 // Attempt to create the user in the identity system
-                var result = _userManager.CreateAsync(user, password).Result;
+                var result = _userManager.CreateAsync(user, signup.Password).Result;
                 // If creation succeeded, return a success message
                 if (result.Succeeded)
                 {
+                    var addroleresult = _userManager.AddToRoleAsync(user, signup.Role).Result;
                     return Ok(new { Result = "User registered successfully" });
                 }
                 else

@@ -3,40 +3,68 @@
   "WorkspaceRootPath": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\controllers\\openaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\controllers\\openaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\controllers\\semanticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\controllers\\semanticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022060631_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SemanticAIApp\\Migrations\\20241022060631_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\models\\openaisubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\models\\openaisubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\models\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\models\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241021165748_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SemanticAIApp\\Migrations\\20241021165748_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\models\\ssotoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\models\\ssotoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022055726_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SemanticAIApp\\Migrations\\20241022055726_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\semanticaiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\semanticaiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022054810_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SemanticAIApp\\Migrations\\20241022054810_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241021120211_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SemanticAIApp\\Migrations\\20241021120211_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022052415_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SemanticAIApp\\Migrations\\20241022052415_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022050832_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SemanticAIApp\\Migrations\\20241022050832_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\models\\ssotoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\models\\ssotoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\semanticaiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\semanticaiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B4B8955-44B3-4E1C-87A0-15943EE88746}|SemanticKernalLib\\SemanticKernalLib.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semantickernallib\\connection\\makeconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,12 +75,12 @@
       "RelativeMoniker": "D:0:0:{CDADE711-03AF-4F5F-8854-E911206F17B6}|SemanticKernalApp\\SemanticKernalApp.csproj|solutionrelative:semantickernalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semanticaiapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A8C901-4229-4E14-9042-EC6F8062D981}|SemanticAIApp\\SemanticAIApp.csproj|solutionrelative:semanticaiapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B4B8955-44B3-4E1C-87A0-15943EE88746}|SemanticKernalLib\\SemanticKernalLib.csproj|c:\\data\\me\\projects\\semantickernal\\sematntickernal\\semantickernallib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B4B8955-44B3-4E1C-87A0-15943EE88746}|SemanticKernalLib\\SemanticKernalLib.csproj|solutionrelative:semantickernallib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022034552_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SemanticAIApp\\Migrations\\20241022034552_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,15 +102,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SSOToken.cs",
-              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Models\\SSOToken.cs",
-              "RelativeDocumentMoniker": "SemanticAIApp\\Models\\SSOToken.cs",
-              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Models\\SSOToken.cs",
-              "RelativeToolTip": "SemanticAIApp\\Models\\SSOToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20241022060631_2.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022060631_2.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Migrations\\20241022060631_2.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022060631_2.cs",
+              "RelativeToolTip": "SemanticAIApp\\Migrations\\20241022060631_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:52:02.82Z",
+              "WhenOpened": "2024-10-22T06:06:31.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SemanticController.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Controllers\\SemanticController.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Controllers\\SemanticController.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Controllers\\SemanticController.cs",
+              "RelativeToolTip": "SemanticAIApp\\Controllers\\SemanticController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADgv0oAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:23:34.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenAIController.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Controllers\\OpenAIController.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Controllers\\OpenAIController.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Controllers\\OpenAIController.cs",
+              "RelativeToolTip": "SemanticAIApp\\Controllers\\OpenAIController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:48:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUpDto.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Models\\SignUpDto.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Models\\SignUpDto.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Models\\SignUpDto.cs",
+              "RelativeToolTip": "SemanticAIApp\\Models\\SignUpDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:27:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenAISubscription.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Models\\OpenAISubscription.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Models\\OpenAISubscription.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Models\\OpenAISubscription.cs",
+              "RelativeToolTip": "SemanticAIApp\\Models\\OpenAISubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:41:35.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241022052415_2.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022052415_2.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Migrations\\20241022052415_2.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022052415_2.cs",
+              "RelativeToolTip": "SemanticAIApp\\Migrations\\20241022052415_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:24:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241022055726_1.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022055726_1.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Migrations\\20241022055726_1.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022055726_1.cs",
+              "RelativeToolTip": "SemanticAIApp\\Migrations\\20241022055726_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:57:26.233Z",
               "EditorCaption": ""
             },
             {
@@ -93,66 +199,66 @@
               "RelativeDocumentMoniker": "SemanticAIApp\\Repository\\AppDbContext.cs",
               "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Repository\\AppDbContext.cs",
               "RelativeToolTip": "SemanticAIApp\\Repository\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T11:01:14.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\appsettings.json",
               "RelativeDocumentMoniker": "SemanticAIApp\\appsettings.json",
               "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\appsettings.json",
               "RelativeToolTip": "SemanticAIApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-21T08:10:50.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "20241022054810_1.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022054810_1.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Migrations\\20241022054810_1.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022054810_1.cs",
+              "RelativeToolTip": "SemanticAIApp\\Migrations\\20241022054810_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:48:10.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Program.cs",
               "RelativeDocumentMoniker": "SemanticAIApp\\Program.cs",
               "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Program.cs",
               "RelativeToolTip": "SemanticAIApp\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAEwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T07:24:25.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SemanticController.cs",
-              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Controllers\\SemanticController.cs",
-              "RelativeDocumentMoniker": "SemanticAIApp\\Controllers\\SemanticController.cs",
-              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Controllers\\SemanticController.cs",
-              "RelativeToolTip": "SemanticAIApp\\Controllers\\SemanticController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAADgv24AAAArAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "20241022050832_4.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022050832_4.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Migrations\\20241022050832_4.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022050832_4.cs",
+              "RelativeToolTip": "SemanticAIApp\\Migrations\\20241022050832_4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:23:34.224Z",
+              "WhenOpened": "2024-10-22T05:08:32.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20241021120211_1.cs",
-              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241021120211_1.cs",
-              "RelativeDocumentMoniker": "SemanticAIApp\\Migrations\\20241021120211_1.cs",
-              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241021120211_1.cs",
-              "RelativeToolTip": "SemanticAIApp\\Migrations\\20241021120211_1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:02:11.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "SemanticAIApp\\Models\\ApplicationUser.cs",
@@ -160,38 +266,35 @@
               "RelativeToolTip": "SemanticAIApp\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:12:58.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T12:12:58.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20241021165748_2.cs",
-              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241021165748_2.cs",
-              "RelativeDocumentMoniker": "SemanticAIApp\\Migrations\\20241021165748_2.cs",
-              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241021165748_2.cs",
-              "RelativeToolTip": "SemanticAIApp\\Migrations\\20241021165748_2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "20241022034552_3.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022034552_3.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Migrations\\20241022034552_3.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Migrations\\20241022034552_3.cs",
+              "RelativeToolTip": "SemanticAIApp\\Migrations\\20241022034552_3.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:57:49.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T03:45:52.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SemanticAIApp",
-              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\SemanticAIApp.csproj",
-              "RelativeDocumentMoniker": "SemanticAIApp\\SemanticAIApp.csproj",
-              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\SemanticAIApp.csproj",
-              "RelativeToolTip": "SemanticAIApp\\SemanticAIApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-21T12:05:21.758Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "SSOToken.cs",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Models\\SSOToken.cs",
+              "RelativeDocumentMoniker": "SemanticAIApp\\Models\\SSOToken.cs",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Models\\SSOToken.cs",
+              "RelativeToolTip": "SemanticAIApp\\Models\\SSOToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:52:02.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "SemanticAIApp\\Controllers\\WeatherForecastController.cs",
@@ -199,12 +302,23 @@
               "RelativeToolTip": "SemanticAIApp\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:22:54.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:22:54.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
+              "Title": "SemanticAIApp.csproj",
+              "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\SemanticAIApp.csproj",
+              "RelativeDocumentMoniker": "SemanticAIApp\\SemanticAIApp.csproj",
+              "ToolTip": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticAIApp\\SemanticAIApp.csproj",
+              "RelativeToolTip": "SemanticAIApp\\SemanticAIApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T12:05:21.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalApp\\Program.cs",
               "RelativeDocumentMoniker": "SemanticKernalApp\\Program.cs",
@@ -212,12 +326,11 @@
               "RelativeToolTip": "SemanticKernalApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:00:27.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:00:27.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "MakeConnection.cs",
               "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\Connection\\MakeConnection.cs",
               "RelativeDocumentMoniker": "SemanticKernalLib\\Connection\\MakeConnection.cs",
@@ -225,12 +338,11 @@
               "RelativeToolTip": "SemanticKernalLib\\Connection\\MakeConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:12:13.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:12:13.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Data\\Me\\Projects\\SemanticKernal\\SematnticKernal\\SemanticKernalLib\\Class1.cs",
               "RelativeDocumentMoniker": "SemanticKernalLib\\Class1.cs",
@@ -238,8 +350,7 @@
               "RelativeToolTip": "SemanticKernalLib\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:11:52.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:11:52.481Z"
             }
           ]
         }
